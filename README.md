@@ -1,2 +1,2 @@
 # dlnd-project1
-My first neural network
+My first neural network.
